@@ -1,0 +1,88 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ActionKit",
+        "repositoryURL": "https://github.com/ActionKit/ActionKit",
+        "state": {
+          "branch": null,
+          "revision": "9a08c201b3c2dc52ff24792ca0de240caac0014f",
+          "version": "2.5.4"
+        }
+      },
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": null,
+          "revision": "becd9a729a37bdbef5bc39dc3c702b99f9e3d046",
+          "version": "5.2.2"
+        }
+      },
+      {
+        "package": "Cloudinary",
+        "repositoryURL": "https://github.com/cloudinary/cloudinary_ios",
+        "state": {
+          "branch": null,
+          "revision": "089e2f191adcc0a9b38808396adbeaa0fab2a61d",
+          "version": "2.9.0"
+        }
+      },
+      {
+        "package": "FlexColorPicker",
+        "repositoryURL": "https://github.com/RastislavMirek/FlexColorPicker",
+        "state": {
+          "branch": null,
+          "revision": "6f591e9bc2b4f968c6d7d555f14fd3d219e5f2d6",
+          "version": "1.4.3"
+        }
+      },
+      {
+        "package": "MultiPeer",
+        "repositoryURL": "https://github.com/dingwilson/MultiPeer",
+        "state": {
+          "branch": null,
+          "revision": "db6963aaccc815701d2659a11499da1d43a7fc99",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "SDWebImage",
+        "repositoryURL": "https://github.com/SDWebImage/SDWebImage",
+        "state": {
+          "branch": null,
+          "revision": "2f9ef53b99a25bdfba97660c69c42cb54e323b78",
+          "version": "5.8.4"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "SwiftyStoreKit",
+        "repositoryURL": "https://github.com/maxwelldesign/SwiftyStoreKit",
+        "state": {
+          "branch": null,
+          "revision": "05011d7a144f64de1899c38ccfbf2cf65fa3efdd",
+          "version": "0.16.1"
+        }
+      },
+      {
+        "package": "Zip",
+        "repositoryURL": "https://github.com/marmelroy/Zip",
+        "state": {
+          "branch": null,
+          "revision": "80b1c3005ee25b4c7ce46c4029ac3347e8d5e37e",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
