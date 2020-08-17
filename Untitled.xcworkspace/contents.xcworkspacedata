@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FOUNDATION_V5.txt">
+   </FileRef>
+   <FileRef
+      location = "group:Xcode_10.xip 2.download">
+   </FileRef>
+   <FileRef
+      location = "group:MaxwellLUX">
+   </FileRef>
+   <FileRef
+      location = "group:MaxwellLUX copy">
+   </FileRef>
+   <FileRef
+      location = "container:../File.swift">
+   </FileRef>
+</Workspace>
