@@ -5,6 +5,12 @@
       location = "group:FOUNDATION_V5.txt">
    </FileRef>
    <FileRef
+      location = "group:">
+   </FileRef>
+   <FileRef
+      location = "group:">
+   </FileRef>
+   <FileRef
       location = "group:Xcode_10.xip 2.download">
    </FileRef>
    <FileRef
